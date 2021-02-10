@@ -7,3 +7,4 @@ Olá, bem vindo ao meu livro de receitas.
 - Pavê
 - Torta de Frango
 - Lasanha
+- Escondidinho de carne
